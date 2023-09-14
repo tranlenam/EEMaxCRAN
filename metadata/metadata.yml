@@ -1,0 +1,23 @@
+metadata_version: 1
+name: 'Energy Efficiency Maximization for C-RANs: Discrete Monotonic Optimization,
+  Penalty, and $\ell_{0}$-Approximation Methods'
+description: 'Simulation code for "Energy Efficiency Maximization for C-RANs: Discrete
+  Monotonic Optimization, Penalty, and $\ell_{0}$-Approximation Methods," by Kien-Giang
+  Nguyen, Quang-Doanh Vu, Markku Juntti, and Le-Nam Tran, IEEE Trans. Signal Process.,
+  vol. 66, no. 17, pp. 4435-4449, Sep. 2018.'
+authors:
+- name: Kien-Giang Nguyen
+  affiliations:
+  - name: University of Oulu
+- name: Quang-Doanh Vu
+  affiliations:
+  - name: University of Oulu
+- name: Markku Juntti
+  affiliations:
+  - name: University of Oulu
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
